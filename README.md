@@ -12,6 +12,7 @@ This project leverages Power BI to create an interactive dashboard that analyzes
 - **Key and Mode Analysis**: Bar charts to analyze song popularity based on key and mode.
 - **Trends and Ranks**: Average song popularity trends over time, with rankings for each song.
 - **Interactive Filters**: Filters for rank, release date, song name, collaboration or solo, album name, and member name for a personalized exploration of data.
+- **Dynamic Updates**: The dashboard is easy to maintain, with data dynamically updating from the source Excel file whenever changes are made.
 
 ## Insights
 
