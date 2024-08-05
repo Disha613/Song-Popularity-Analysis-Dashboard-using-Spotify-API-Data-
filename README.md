@@ -1,7 +1,8 @@
 # Song Popularity Analysis using Spotify API Data 🎵
 
-![Dashboard Preview 1](BTS Dashboard_page-0001.jpg)
-![Dashboard Preview 2](BTS Dashboard_page-0002.jpg)
+![BTS Dashboard_page-0001](https://github.com/user-attachments/assets/27b8e28f-f09e-4de6-9a45-e7ded85e8bd8)
+ 
+![BTS Dashboard_page-0002](https://github.com/user-attachments/assets/f1275811-8bfa-4d16-8f23-2f19c9641e5a)
 
 ## Project Overview
 
