@@ -1,7 +1,7 @@
 # Song Popularity Analysis using Spotify API Data 🎵
 
-**Dashboard Link**- https://shorturl.at/p0wo0
-**Linkedin Link**- 
+- **Dashboard Link**- https://shorturl.at/p0wo0
+- **Linkedin Link**- https://shorturl.at/bq0ra
 
 ![BTS Dashboard_page-0001](https://github.com/user-attachments/assets/27b8e28f-f09e-4de6-9a45-e7ded85e8bd8)
  
