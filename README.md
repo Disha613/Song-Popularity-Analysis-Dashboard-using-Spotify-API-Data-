@@ -1,5 +1,8 @@
 # Song Popularity Analysis using Spotify API Data 🎵
 
+![Dashboard Preview](BTS Dashboard_page-0001.jpg)
+![Dashboard Preview](BTS Dashboard_page-0002.jpg)
+
 ## Project Overview
 
 This project leverages Power BI to create an interactive dashboard that analyzes the popularity of songs and albums by BTS and its members using Spotify API data. The dashboard provides insightful visualizations and trends, making it a valuable tool for music analysts, marketing teams, and fans.
