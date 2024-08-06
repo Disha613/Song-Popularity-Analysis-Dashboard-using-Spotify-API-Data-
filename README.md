@@ -3,7 +3,7 @@
 - **Dashboard Link**- https://shorturl.at/p0wo0
 - **Linkedin Link**- https://shorturl.at/bq0ra
 
-![BTS Dashboard_page-0001](https://github.com/user-attachments/assets/27b8e28f-f09e-4de6-9a45-e7ded85e8bd8)
+![image_2024-08-06_163622115](https://github.com/user-attachments/assets/b8990846-0524-4ea1-adab-6ae9f73fdcdf)
  
 ![BTS Dashboard_page-0002](https://github.com/user-attachments/assets/f1275811-8bfa-4d16-8f23-2f19c9641e5a)
 
