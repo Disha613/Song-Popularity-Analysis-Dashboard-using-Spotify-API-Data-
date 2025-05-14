@@ -1,7 +1,6 @@
 # Song Popularity Analysis using Spotify API Data 🎵
 
-- **Dashboard Link**- https://shorturl.at/p0wo0
-- **Linkedin Link**- https://shorturl.at/bq0ra
+- **Dashboard Link**- (https://app.powerbi.com/groups/me/reports/0623cdcb-ebd1-4e50-bd9b-485837eeb464?experience=power-bi)
 
 ![image_2024-08-06_163622115](https://github.com/user-attachments/assets/b8990846-0524-4ea1-adab-6ae9f73fdcdf)
  
